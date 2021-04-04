@@ -1,2 +1,5 @@
-# pv_vimrc
-The Software Sage's VIM Configuration File
+# .DotFile Repo
+The Software Sage's Configuration Files
+
+-VIMRC
+-i3 config
